@@ -1,0 +1,15 @@
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\bin\Debug\Mods\mod\assets\randomstartmonth\lang\en.json
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\bin\Debug\Mods\mod\modinfo.json
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\bin\Debug\Mods\mod\modicon.png
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\bin\Debug\Mods\mod\RandomStartMonth.deps.json
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\bin\Debug\Mods\mod\RandomStartMonth.dll
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\bin\Debug\Mods\mod\RandomStartMonth.pdb
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\obj\Debug\RandomStartMonth.csproj.AssemblyReference.cache
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\obj\Debug\RandomStartMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\obj\Debug\RandomStartMonth.AssemblyInfoInputs.cache
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\obj\Debug\RandomStartMonth.AssemblyInfo.cs
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\obj\Debug\RandomStartMonth.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\obj\Debug\RandomStartMonth.dll
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\obj\Debug\refint\RandomStartMonth.dll
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\obj\Debug\RandomStartMonth.pdb
+C:\Users\Phoenix\source\repos\RandomStartMonth\RandomStartMonth\obj\Debug\ref\RandomStartMonth.dll
