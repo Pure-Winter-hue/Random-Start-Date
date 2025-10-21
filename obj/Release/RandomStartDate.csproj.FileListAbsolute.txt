@@ -1,0 +1,12 @@
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\bin\Release\Mods\mod\RandomStartDate.deps.json
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\bin\Release\Mods\mod\RandomStartDate.dll
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\bin\Release\Mods\mod\RandomStartDate.pdb
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\obj\Release\RandomStartDate.csproj.AssemblyReference.cache
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\obj\Release\RandomStartDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\obj\Release\RandomStartDate.AssemblyInfoInputs.cache
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\obj\Release\RandomStartDate.AssemblyInfo.cs
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\obj\Release\RandomStartDate.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\obj\Release\RandomStartDate.dll
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\obj\Release\refint\RandomStartDate.dll
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\obj\Release\RandomStartDate.pdb
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\obj\Release\ref\RandomStartDate.dll

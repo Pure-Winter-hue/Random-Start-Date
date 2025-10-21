@@ -1,0 +1,3 @@
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\bin\Release\Mods\mod\publish\RandomStartDate.dll
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\bin\Release\Mods\mod\publish\RandomStartDate.deps.json
+C:\Users\Phoenix\source\repos\RandomStartDate\RandomStartDate\bin\Release\Mods\mod\publish\RandomStartDate.pdb

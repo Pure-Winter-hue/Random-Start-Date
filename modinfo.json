@@ -1,0 +1,10 @@
+{
+  "type": "code",
+  "modid": "randomstartdate",
+  "name": "Random Start Date",
+  "side": "universal",
+  "authors": [ "Pure Winter" ],
+  "description": "Randomizes month, day, and time you spawn at.",
+  "version": "1.0.0",
+  "dependencies": { "game": "1.21.5" }
+}
